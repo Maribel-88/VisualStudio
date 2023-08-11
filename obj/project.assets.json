@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44798\\source\\repos\\AnythingYouDontNeed\\AnythingYouDontNeed.Website\\AnythingYouDontNeed.Website.csproj",
+      "projectUniqueName": "C:\\Users\\44798\\source\\repos\\VisualStudio\\AnythingYouDontNeed.Website.csproj",
       "projectName": "AnythingYouDontNeed.Website",
-      "projectPath": "C:\\Users\\44798\\source\\repos\\AnythingYouDontNeed\\AnythingYouDontNeed.Website\\AnythingYouDontNeed.Website.csproj",
+      "projectPath": "C:\\Users\\44798\\source\\repos\\VisualStudio\\AnythingYouDontNeed.Website.csproj",
       "packagesPath": "C:\\Users\\44798\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44798\\source\\repos\\AnythingYouDontNeed\\AnythingYouDontNeed.Website\\obj\\",
+      "outputPath": "C:\\Users\\44798\\source\\repos\\VisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
